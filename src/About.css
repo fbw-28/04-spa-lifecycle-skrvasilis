@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    justify-content: center;
+    height: 87vh;
+    background-color:rgb(184,184,224)
+    ;
+    font-size: 2em;
+}
+
+.about p {
+    width: 53%;
+    margin-top: 10%;
+    font-family: monospace;
+}
